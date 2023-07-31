@@ -1,0 +1,13 @@
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\bin\Debug\Student-Registration-Automation.exe.config
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\bin\Debug\Student-Registration-Automation.exe
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\bin\Debug\Student-Registration-Automation.pdb
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\bin\Debug\EntityFramework.dll
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\bin\Debug\EntityFramework.xml
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\obj\Debug\Student-Registration-Automation.csproj.AssemblyReference.cache
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\obj\Debug\Student-Registration-Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\obj\Debug\Student-Registration-Automation.csproj.CoreCompileInputs.cache
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\obj\Debug\Student-Registration-Automation.csproj.CopyComplete
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\obj\Debug\Student-Registration-Automation.exe
+C:\Users\SİY\Source\Repos\Student-Registration-Automation\Student-Registration-Automation\obj\Debug\Student-Registration-Automation.pdb
